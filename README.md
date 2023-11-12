@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaadaqData
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
-- :) I work as a  in my current role
+- 👀 I’m interested in particularly nothing, yet everything
+- 🌱 I’m currently learning web development
+- :) I work as a BA in my current role
 
 <!---
 SaadaqData/SaadaqData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
